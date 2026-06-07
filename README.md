@@ -1,2 +1,3 @@
-# assignmentFPGA
-FPGA speciallity is that it can be anything you want, as long as you can code for it. It can be microcontroller or microprocessor. Therefore, the uses of FPGA for billboard is favouriable for its customizable and extra feature. In this project, I will program Xilinx FPGA on Vivado IDE.
+# This is a group assignment from the course KKEE2163
+
+I am from faculty of engineering from Universiti Kebangsaan Malaysia, UKM. In this course we are task to build a system using the FPGA provided. 
